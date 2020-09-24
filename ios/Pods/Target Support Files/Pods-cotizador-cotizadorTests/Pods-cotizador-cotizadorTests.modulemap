@@ -1,0 +1,6 @@
+module Pods_cotizador_cotizadorTests {
+  umbrella header "Pods-cotizador-cotizadorTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
